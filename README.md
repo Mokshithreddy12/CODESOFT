@@ -1,5 +1,5 @@
 # CODESOFT
-## Mokshith
+## Bommadi Mokshith Kumar Reddy
 ### Here are some task descriptions
 ## Task 1
 It is a  landing page is an ideal web development project for beginners. It requires basic
